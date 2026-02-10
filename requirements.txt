@@ -6,4 +6,5 @@ ipykernel
 matplotlib
 catboost
 xgboost
+flask
 -e .
